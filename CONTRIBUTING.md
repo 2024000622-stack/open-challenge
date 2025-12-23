@@ -13,7 +13,7 @@ Thank you for your interest in contributing to the API Management System! We wel
 7. Push to your fork: `git push origin feature/your-feature-name`
 8. Create a Pull Request
  
-## Development Setup 
+## Development Setup  
  
 ### Backend
 ```bash 
