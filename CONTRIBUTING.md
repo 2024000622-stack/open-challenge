@@ -39,7 +39,7 @@ npm start
 
 - **Python**: Follow PEP 8 guidelines
 - **JavaScript/React**: Use ES6+ syntax, functional components with hooks
-- Write clear, descriptive commit messages
+- Write clear, descriptive commit messages 
 - Add comments for complex logic
 - Keep functions small and focused
 
