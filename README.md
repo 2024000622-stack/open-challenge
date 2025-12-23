@@ -13,7 +13,7 @@ A comprehensive full-stack application for managing, monitoring, and analyzing A
 - **Rate Limiting Ready**: Infrastructure for implementing rate limiting
 - **Docker Support**: Fully containerized with Docker Compose
 
-### Technical Features
+### Technical Features 
 - RESTful API architecture
 - MongoDB for flexible data storage
 - React with Hooks and Context API
