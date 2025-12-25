@@ -2,7 +2,7 @@
 
 A comprehensive full-stack application for managing, monitoring, and analyzing APIs. Built with Flask (Python) backend and React frontend, featuring JWT authentication, MongoDB database, and Docker support.   
        
-## Features.   
+## Features.     
 
 ### Core Functionality
 - **API Management**: Create, read, update, and delete API endpoints
