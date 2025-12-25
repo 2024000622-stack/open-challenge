@@ -1,6 +1,6 @@
 # API Management System
 
-A comprehensive full-stack application for managing, monitoring, and analyzing APIs. Built with Flask (Python) backend and React frontend, featuring JWT authentication, MongoDB database, and Docker support.
+A comprehensive full-stack application for managing, monitoring, and analyzing APIs. Built with Flask (Python) backend and React frontend, featuring JWT authentication, MongoDB database, and Docker support.   
 
 ## Features. 
 
