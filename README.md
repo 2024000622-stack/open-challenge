@@ -15,7 +15,7 @@ A comprehensive full-stack application for managing, monitoring, and analyzing A
 
 ### Technical Features 
 - RESTful API architecture
-- MongoDB for flexible data storage
+- MongoDB for flexible data storage           
 - React with Hooks and Context API
 - Responsive UI design
 - Token refresh mechanism
