@@ -9,7 +9,7 @@ A comprehensive full-stack application for managing, monitoring, and analyzing A
 - **Authentication**: JWT-based authentication with secure user.      registration and login
 - **API Key Management**: Generate and manage API keys for secure API access
 - **Request Logging**: Automatic logging of all API requests with detailed metrics
-- **Analytics Dashboard**: Real-time statistics and request history visualization        
+- **Analytics Dashboard**: Real-time statistics and request history visualization                
 - **Rate Limiting Ready**: Infrastructure for implementing rate limiting  
 - **Docker Support**: Fully containerized with Docker Compose 
 
