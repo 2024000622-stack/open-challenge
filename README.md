@@ -4,7 +4,7 @@ A comprehensive full-stack application for managing, monitoring, and analyzing A
        
 ## Features.           
          
-### Core Functionality
+### Core Functionality 
 - **API Management**: Create, read, update, and delete API endpoints      
 - **Authentication**: JWT-based authentication with secure user.      registration and login
 - **API Key Management**: Generate and manage API keys for secure API access
